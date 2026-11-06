@@ -1,0 +1,8 @@
+{
+  "name": "Remix JCET-Bridge",
+  "description": "One Portal. Endless Possibilities. Unified academic portal for Jain College of Engineering \u0026 Technology (JCET) – resources, assignments, IA track record, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
